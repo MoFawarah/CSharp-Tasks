@@ -5,3 +5,10 @@ C:\Users\Orange\source\repos\25.6.2025\25.6.2025\obj\Debug\25.6.2025.csproj.Asse
 C:\Users\Orange\source\repos\25.6.2025\25.6.2025\obj\Debug\25.6.2025.csproj.CoreCompileInputs.cache
 C:\Users\Orange\source\repos\25.6.2025\25.6.2025\obj\Debug\25.6.2025.exe
 C:\Users\Orange\source\repos\25.6.2025\25.6.2025\obj\Debug\25.6.2025.pdb
+C:\Users\Orange\Desktop\CSharp Tasks\CSharp-Tasks\25.6.2025\25.6.2025\bin\Debug\25.6.2025.exe.config
+C:\Users\Orange\Desktop\CSharp Tasks\CSharp-Tasks\25.6.2025\25.6.2025\bin\Debug\25.6.2025.exe
+C:\Users\Orange\Desktop\CSharp Tasks\CSharp-Tasks\25.6.2025\25.6.2025\bin\Debug\25.6.2025.pdb
+C:\Users\Orange\Desktop\CSharp Tasks\CSharp-Tasks\25.6.2025\25.6.2025\obj\Debug\25.6.2025.csproj.AssemblyReference.cache
+C:\Users\Orange\Desktop\CSharp Tasks\CSharp-Tasks\25.6.2025\25.6.2025\obj\Debug\25.6.2025.csproj.CoreCompileInputs.cache
+C:\Users\Orange\Desktop\CSharp Tasks\CSharp-Tasks\25.6.2025\25.6.2025\obj\Debug\25.6.2025.exe
+C:\Users\Orange\Desktop\CSharp Tasks\CSharp-Tasks\25.6.2025\25.6.2025\obj\Debug\25.6.2025.pdb
