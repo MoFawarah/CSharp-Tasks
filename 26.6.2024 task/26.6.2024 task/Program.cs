@@ -13,35 +13,46 @@ namespace _26._6._2024_task
         {
 
             //task 01:
+            Console.WriteLine("Plz enter a number: ");
+            int num1 = Convert.ToInt32(Console.ReadLine());
 
-            int num1 = 10;
-            int num2 = 20;
+            Console.WriteLine("Plz enter another number: ");
+            int num2 = Convert.ToInt32(Console.ReadLine()); ;
 
-            if (num1 > num2)
-            {
-                Console.WriteLine($"{num2} is smaller than {num1}");
-            }
-            else { Console.WriteLine($"{num1} is smaller than {num2}"); }
+            int minNumber = Math.Min(num1, num2);
+            Console.WriteLine("The min number between {0} and {1} is {2} ", num1, num2, minNumber);
+
 
 
             //task 01 method 02:
 
 
 
-            int X = -5;
-            int Y = 0;
+            //int X = -5;
+            //int Y = 0;
 
 
-            Console.WriteLine(X > Y ? $"{Y} is smaller than {X}" : $"{X} is smaller than {Y}");
+            //Console.WriteLine(X > Y ? $"{Y} is smaller than {X}" : $"{X} is smaller than {Y}");
 
 
 
             //task 02: Display the sign of a number:
 
-            Console.WriteLine("Plz enter a number");
+            //Console.WriteLine("Plz enter a number");
+            //int number = Convert.ToInt32(Console.ReadLine());
+
+            //Console.WriteLine(number >= 0 ? $"The sign of {number} is +" : $"The sign of {number} is -");
+
+
+
+            Console.WriteLine("Please enter a number:");
             int number = Convert.ToInt32(Console.ReadLine());
 
-            Console.WriteLine(number >= 0 ? $"The sign of {number} is +" : $"The sign of {number} is -");
+           
+            int sign = Math.Sign(number); //returns -1 if the num is minus, 0 if 0 and 1 if positive.
+            string signString = new[] { "-", "0", "+" }[sign + 1]; //to return the correct index
+
+            Console.WriteLine($"The sign of {number} is {signString}");
 
 
 
@@ -119,45 +130,45 @@ namespace _26._6._2024_task
 
 
 
-           // task 08: printing elements of an array along with their length.
+            // task 08: printing elements of an array along with their length.
 
-            //string[] arr = new string[5];
-            //arr = new string[] { "Hello people", "Let's go out", "I'm hungry", "Would you like some cheese?", "I hate winter" };
+            string[] arr = new string[5];
+            arr = new string[] { "Hello people", "Let's go out", "I'm hungry", "Would you like some cheese?", "I hate winter" };
 
-            //string arrFirstElement = arr[0];
-            //int arrFirstElementLength = arr[0].Length;
+            string arrFirstElement = arr[0];
+            int arrFirstElementLength = arr[0].Length;
 
-            //Console.WriteLine(arrFirstElement + " " + arrFirstElementLength);
+            Console.WriteLine(arrFirstElement + " " + arrFirstElementLength);
 
-            //string arrSecondElement = arr[1];
-            //int arrSecondElementLength = arr[1].Length;
-            //Console.WriteLine(arrSecondElement + " " + arrSecondElementLength);
-
-
-            //string arrThirdElement = arr[2];
-            //int arrThirdElementLength = arr[2].Length;
-            //Console.WriteLine(arrThirdElement + " " + arrThirdElementLength);
-
-            //string arrFourthElement = arr[3];
-            //int arrFourthElementLength = arr[3].Length;
-            //Console.WriteLine(arrFourthElement + " " + arrFourthElementLength);
-
-            //string arrFifthElement = arr[4];
-            //int arrFifthElementLength = arr[4].Length;
-            //Console.WriteLine(arrFifthElement + " " + arrFifthElementLength);
+            string arrSecondElement = arr[1];
+            int arrSecondElementLength = arr[1].Length;
+            Console.WriteLine(arrSecondElement + " " + arrSecondElementLength);
 
 
-            string[] arr2 = new string[5];
-            arr2 = new string[] { "Hello people", "Let's go out", "I'm hungry", "Would you like some cheese?", "I hate winter" };
+            string arrThirdElement = arr[2];
+            int arrThirdElementLength = arr[2].Length;
+            Console.WriteLine(arrThirdElement + " " + arrThirdElementLength);
 
-            Array.ForEach(arr2, item =>
-            {
-                Console.WriteLine(item + " " + item.Length);
-            });
+            string arrFourthElement = arr[3];
+            int arrFourthElementLength = arr[3].Length;
+            Console.WriteLine(arrFourthElement + " " + arrFourthElementLength);
+
+            string arrFifthElement = arr[4];
+            int arrFifthElementLength = arr[4].Length;
+            Console.WriteLine(arrFifthElement + " " + arrFifthElementLength);
+
+
+            //string[] arr2 = new string[5];
+            //arr2 = new string[] { "Hello people", "Let's go out", "I'm hungry", "Would you like some cheese?", "I hate winter" };
+
+            //Array.ForEach(arr2, item =>
+            //{
+            //    Console.WriteLine(item + " " + item.Length);
+            //});
 
 
 
-    }
+        }
     
     }
 }
