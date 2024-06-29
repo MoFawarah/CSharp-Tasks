@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\CSharp Tasks\\CSharp-Tasks\\27.6.2024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{321C35DC-0B4B-4C8B-B0E3-9AA38BD8E556}|27.6.2024\\27.6.2024.csproj|c:\\users\\orange\\desktop\\csharp tasks\\csharp-tasks\\27.6.2024\\27.6.2024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{321C35DC-0B4B-4C8B-B0E3-9AA38BD8E556}|27.6.2024\\27.6.2024.csproj|solutionrelative:27.6.2024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\CSharp Tasks\\CSharp-Tasks\\27.6.2024\\27.6.2024\\Program.cs",
+              "RelativeDocumentMoniker": "27.6.2024\\Program.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\CSharp Tasks\\CSharp-Tasks\\27.6.2024\\27.6.2024\\Program.cs",
+              "RelativeToolTip": "27.6.2024\\Program.cs",
+              "ViewState": "AQIAAIAAAAAAAAAAAAAcwIQAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T11:16:50.628Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
