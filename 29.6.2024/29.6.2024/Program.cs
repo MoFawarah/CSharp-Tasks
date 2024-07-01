@@ -89,19 +89,20 @@ namespace _29._6._2024
 
             //task 04:
 
-            //Console.Write("Plz input three numbers seperated by a comma: ");
+            Console.Write("Plz input three numbers seperated by a comma: ");
 
-            //string [] userInput = Console.ReadLine().Split(',');
+            string[] userInput = Console.ReadLine().Split(',');
 
-            //int[] userInputArray = Array.ConvertAll(userInput, int.Parse);
+            int[] userInputArray = Array.ConvertAll(userInput, int.Parse);
 
-            //double sum = 0;
+            double sum = 0;
 
-            //foreach (int y in userInputArray) { 
-            //  sum += y;
-            //}
+            foreach (int y in userInputArray)
+            {
+                sum += y;
+            }
 
-            //Console.WriteLine("The total sum of your inputted numbers is: " + sum);
+            Console.WriteLine("The total sum of your inputted numbers is: " + sum);
 
 
             //another method:
@@ -124,18 +125,19 @@ namespace _29._6._2024
 
             //task 05: Write a program in C# to display the n terms of odd number and their sum from [1- 100 ]
 
-            //int sum001 = 0;
+            int sum001 = 0;
 
-            //for (int i = 0; i <= 100; i++) { 
-            // if (i%2 != 0)
-            //    {
-            //        Console.Write(i + " ");
-            //        sum001 += i;
+            for (int i = 0; i <= 100; i++)
+            {
+                if (i % 2 != 0)
+                {
+                    Console.Write(i + " ");
+                    sum001 += i;
 
-            //    }
-            //}
+                }
+            }
 
-            //Console.WriteLine("\nThe Sum of odd Numbers is: " + sum001);
+            Console.WriteLine("\nThe Sum of odd Numbers is: " + sum001);
 
 
             //Task 06: 
