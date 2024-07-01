@@ -1,0 +1,7 @@
+C:\Users\Orange\Desktop\CSharp Tasks\CSharp-Tasks\30.6.24\30.6.24\bin\Debug\30.6.24.exe.config
+C:\Users\Orange\Desktop\CSharp Tasks\CSharp-Tasks\30.6.24\30.6.24\bin\Debug\30.6.24.exe
+C:\Users\Orange\Desktop\CSharp Tasks\CSharp-Tasks\30.6.24\30.6.24\bin\Debug\30.6.24.pdb
+C:\Users\Orange\Desktop\CSharp Tasks\CSharp-Tasks\30.6.24\30.6.24\obj\Debug\30.6.24.csproj.AssemblyReference.cache
+C:\Users\Orange\Desktop\CSharp Tasks\CSharp-Tasks\30.6.24\30.6.24\obj\Debug\30.6.24.csproj.CoreCompileInputs.cache
+C:\Users\Orange\Desktop\CSharp Tasks\CSharp-Tasks\30.6.24\30.6.24\obj\Debug\30.6.24.exe
+C:\Users\Orange\Desktop\CSharp Tasks\CSharp-Tasks\30.6.24\30.6.24\obj\Debug\30.6.24.pdb
