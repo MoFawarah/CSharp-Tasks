@@ -1,0 +1,7 @@
+C:\Users\Orange\Desktop\CSharp Tasks\CSharp-Tasks\2.July.2024\2.July.2024 - task 02\bin\Debug\2.July.2024 - task 02.exe.config
+C:\Users\Orange\Desktop\CSharp Tasks\CSharp-Tasks\2.July.2024\2.July.2024 - task 02\bin\Debug\2.July.2024 - task 02.exe
+C:\Users\Orange\Desktop\CSharp Tasks\CSharp-Tasks\2.July.2024\2.July.2024 - task 02\bin\Debug\2.July.2024 - task 02.pdb
+C:\Users\Orange\Desktop\CSharp Tasks\CSharp-Tasks\2.July.2024\2.July.2024 - task 02\obj\Debug\2.July.2024 - task 02.csproj.AssemblyReference.cache
+C:\Users\Orange\Desktop\CSharp Tasks\CSharp-Tasks\2.July.2024\2.July.2024 - task 02\obj\Debug\2.July.2024 - task 02.csproj.CoreCompileInputs.cache
+C:\Users\Orange\Desktop\CSharp Tasks\CSharp-Tasks\2.July.2024\2.July.2024 - task 02\obj\Debug\2.July.2024 - task 02.exe
+C:\Users\Orange\Desktop\CSharp Tasks\CSharp-Tasks\2.July.2024\2.July.2024 - task 02\obj\Debug\2.July.2024 - task 02.pdb

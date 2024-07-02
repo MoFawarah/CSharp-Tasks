@@ -127,26 +127,26 @@ namespace _30._6._24
             ////////        task 01         ////////////////
 
 
-            //int[] numbers = new int[10];
-            //Console.WriteLine("Enter 10 numbers: ");
-            //for (int i = 0; i < numbers.Length; i++)
-            //{
-            //    Console.Write($"Number-{i + 1}: ");
-            //    numbers[i] = Convert.ToInt32(Console.ReadLine());
-            //}
+            int[] numbers = new int[10];
+            Console.WriteLine("Enter 10 numbers: ");
+            for (int i = 0; i < numbers.Length; i++)
+            {
+                Console.Write($"Number-{i + 1}: ");
+                numbers[i] = Convert.ToInt32(Console.ReadLine());
+            }
 
-            //var (sum, average) = SumAndAverage(numbers);
+            var (sum, average) = SumAndAverage(numbers);
 
-            //Console.WriteLine($"Sum: {sum}, Average: {average}");
+            Console.WriteLine($"Sum: {sum}, Average: {average}");
 
 
 
             ////////        task 02          ////////////////
 
 
-            //Console.Write("Plz enter a number: ");
-            //int number = Convert.ToInt32(Console.ReadLine());
-            //Cube(number);
+            Console.Write("Plz enter a number: ");
+            int number = Convert.ToInt32(Console.ReadLine());
+            Cube(number);
 
 
 
@@ -183,8 +183,8 @@ namespace _30._6._24
 
 
             Console.WriteLine("The default ");
-            Person mera = new Person();
-            mera.display();
+            Person mo = new Person();
+            mo.display();
             Console.WriteLine();
             Person person = new Person(24, "Male", "Mohammad", "mfawareh1@gmail.com", 778, "1537857");
             Console.WriteLine("Another Person: ");
