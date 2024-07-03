@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\CSharp Tasks\\CSharp-Tasks\\2ndOfJulyTopics\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{703AA508-150F-42BD-89E7-C4643D12D103}|BestTaskSolution\\BestTaskSolution.csproj|c:\\users\\orange\\desktop\\csharp tasks\\csharp-tasks\\2ndofjulytopics\\besttasksolution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{703AA508-150F-42BD-89E7-C4643D12D103}|BestTaskSolution\\BestTaskSolution.csproj|solutionrelative:besttasksolution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20407C0B-2E61-4EBE-B75F-365F0DE67EE5}|2ndOfJulyTopics\\2ndOfJulyTopics.csproj|c:\\users\\orange\\desktop\\csharp tasks\\csharp-tasks\\2ndofjulytopics\\2ndofjulytopics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20407C0B-2E61-4EBE-B75F-365F0DE67EE5}|2ndOfJulyTopics\\2ndOfJulyTopics.csproj|solutionrelative:2ndofjulytopics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32A715D2-6B8A-4DA1-B9DD-1CAF4C086CA3}|StaticMethods\\StaticMethods.csproj|c:\\users\\orange\\desktop\\csharp tasks\\csharp-tasks\\2ndofjulytopics\\staticmethods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32A715D2-6B8A-4DA1-B9DD-1CAF4C086CA3}|StaticMethods\\StaticMethods.csproj|solutionrelative:staticmethods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC964D9-6A3C-4223-9EF9-65B528F60087}|SealedClass\\SealedClass.csproj|c:\\users\\orange\\desktop\\csharp tasks\\csharp-tasks\\2ndofjulytopics\\sealedclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC964D9-6A3C-4223-9EF9-65B528F60087}|SealedClass\\SealedClass.csproj|solutionrelative:sealedclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\CSharp Tasks\\CSharp-Tasks\\2ndOfJulyTopics\\SealedClass\\Program.cs",
+              "RelativeDocumentMoniker": "SealedClass\\Program.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\CSharp Tasks\\CSharp-Tasks\\2ndOfJulyTopics\\SealedClass\\Program.cs",
+              "RelativeToolTip": "SealedClass\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T21:04:44.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\CSharp Tasks\\CSharp-Tasks\\2ndOfJulyTopics\\StaticMethods\\Program.cs",
+              "RelativeDocumentMoniker": "StaticMethods\\Program.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\CSharp Tasks\\CSharp-Tasks\\2ndOfJulyTopics\\StaticMethods\\Program.cs",
+              "RelativeToolTip": "StaticMethods\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T21:00:07.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\CSharp Tasks\\CSharp-Tasks\\2ndOfJulyTopics\\2ndOfJulyTopics\\Program.cs",
+              "RelativeDocumentMoniker": "2ndOfJulyTopics\\Program.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\CSharp Tasks\\CSharp-Tasks\\2ndOfJulyTopics\\2ndOfJulyTopics\\Program.cs",
+              "RelativeToolTip": "2ndOfJulyTopics\\Program.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAiwD4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T19:44:50.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\CSharp Tasks\\CSharp-Tasks\\2ndOfJulyTopics\\BestTaskSolution\\Program.cs",
+              "RelativeDocumentMoniker": "BestTaskSolution\\Program.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\CSharp Tasks\\CSharp-Tasks\\2ndOfJulyTopics\\BestTaskSolution\\Program.cs",
+              "RelativeToolTip": "BestTaskSolution\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwHQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T19:48:00.403Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

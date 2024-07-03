@@ -1,0 +1,7 @@
+C:\Users\Orange\Desktop\CSharp Tasks\CSharp-Tasks\2ndOfJulyTopics\2ndOfJulyTopics\bin\Debug\2ndOfJulyTopics.exe.config
+C:\Users\Orange\Desktop\CSharp Tasks\CSharp-Tasks\2ndOfJulyTopics\2ndOfJulyTopics\bin\Debug\2ndOfJulyTopics.exe
+C:\Users\Orange\Desktop\CSharp Tasks\CSharp-Tasks\2ndOfJulyTopics\2ndOfJulyTopics\bin\Debug\2ndOfJulyTopics.pdb
+C:\Users\Orange\Desktop\CSharp Tasks\CSharp-Tasks\2ndOfJulyTopics\2ndOfJulyTopics\obj\Debug\2ndOfJulyTopics.csproj.AssemblyReference.cache
+C:\Users\Orange\Desktop\CSharp Tasks\CSharp-Tasks\2ndOfJulyTopics\2ndOfJulyTopics\obj\Debug\2ndOfJulyTopics.csproj.CoreCompileInputs.cache
+C:\Users\Orange\Desktop\CSharp Tasks\CSharp-Tasks\2ndOfJulyTopics\2ndOfJulyTopics\obj\Debug\2ndOfJulyTopics.exe
+C:\Users\Orange\Desktop\CSharp Tasks\CSharp-Tasks\2ndOfJulyTopics\2ndOfJulyTopics\obj\Debug\2ndOfJulyTopics.pdb

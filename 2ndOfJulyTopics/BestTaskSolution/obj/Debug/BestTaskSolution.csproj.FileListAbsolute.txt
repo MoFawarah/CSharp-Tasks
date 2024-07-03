@@ -1,0 +1,7 @@
+C:\Users\Orange\Desktop\CSharp Tasks\CSharp-Tasks\2ndOfJulyTopics\BestTaskSolution\bin\Debug\BestTaskSolution.exe.config
+C:\Users\Orange\Desktop\CSharp Tasks\CSharp-Tasks\2ndOfJulyTopics\BestTaskSolution\bin\Debug\BestTaskSolution.exe
+C:\Users\Orange\Desktop\CSharp Tasks\CSharp-Tasks\2ndOfJulyTopics\BestTaskSolution\bin\Debug\BestTaskSolution.pdb
+C:\Users\Orange\Desktop\CSharp Tasks\CSharp-Tasks\2ndOfJulyTopics\BestTaskSolution\obj\Debug\BestTaskSolution.csproj.AssemblyReference.cache
+C:\Users\Orange\Desktop\CSharp Tasks\CSharp-Tasks\2ndOfJulyTopics\BestTaskSolution\obj\Debug\BestTaskSolution.csproj.CoreCompileInputs.cache
+C:\Users\Orange\Desktop\CSharp Tasks\CSharp-Tasks\2ndOfJulyTopics\BestTaskSolution\obj\Debug\BestTaskSolution.exe
+C:\Users\Orange\Desktop\CSharp Tasks\CSharp-Tasks\2ndOfJulyTopics\BestTaskSolution\obj\Debug\BestTaskSolution.pdb
